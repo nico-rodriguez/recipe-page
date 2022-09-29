@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70d02c3e-7df0-40a0-a92f-579f8c2772b4/deploy-status)](https://app.netlify.com/sites/recipe-page-71b3b8/deploys)
+
 ## Overview
 
 Visit [https://recipe-page-71b3b8.netlify.app/](https://recipe-page-71b3b8.netlify.app/).
 
 Desktop
 
-![screenshot](./images/screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./images/screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
